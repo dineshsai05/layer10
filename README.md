@@ -515,6 +515,17 @@ xdg-open data/processed/viz/index.html
 
 ---
 
+## Knowledge Graph Visualization
+
+### Zoomed View
+![Zoomed Graph](images/graph_zoom.png)
+
+### Medium View
+![Medium Graph](images/graph_medium.png)
+
+### Full Graph
+![Full Graph](images/graph_full.png)
+
 ## 12. Layer10 Adaptation
 
 ### Ontology Changes for Email + Slack + Jira
